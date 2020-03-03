@@ -1,0 +1,88 @@
+{
+  "st01-bk": {
+    "id": "st01-bk",
+    "model": "ST01-BK",
+    "sameModel": "",
+    "price": 5.23,
+    "inStock": true,
+    "rating": 5,
+    "ratingCount": 1111,
+    "img": [
+      {
+        "src": "https://wifi.now.sh/assets/img/restoran/stands/st01-bk.jpg",
+        "title": "Черная подставка для кнопки с колокольчиком",
+        "alt": "ST01-BK"
+      }
+    ],
+    "charact": [
+      "размеры: 70 х 75 х 95 мм",
+      "материал: органическое стекло"
+    ],
+    "description": []
+  },
+  "st01-wh": {
+    "id": "st01-wh",
+    "model": "ST01-WH",
+    "sameModel": "",
+    "price": 5.23,
+    "inStock": true,
+    "rating": 5,
+    "ratingCount": 1111,
+    "img": [
+      {
+        "src": "https://wifi.now.sh/assets/img/restoran/stands/st01-wh.jpg",
+        "title": "Прозрачная подставка для кнопки с колокольчиком",
+        "alt": "ST01-WH"
+      }
+    ],
+    "charact": [
+      "размеры: 70 х 75 х 95 мм",
+      "материал: органическое стекло"
+    ],
+    "description": []
+  },
+  "st03-bk": {
+    "id": "st03-bk",
+    "model": "ST03-BK",
+    "sameModel": "",
+    "price": 5.82,
+    "inStock": true,
+    "rating": 5,
+    "ratingCount": 1111,
+    "img": [
+      {
+        "src": "https://wifi.now.sh/assets/img/restoran/stands/st03-bk.jpg",
+        "title": "Черная глянцевая треугольная подставка для кнопки",
+        "alt": "ST03-BK"
+      }
+    ],
+    "charact": [
+      "размеры: 90 х 30 х 75 мм",
+      "материал: органическое стекло"
+    ],
+    "description": []
+  },
+  "st04-bk": {
+    "id": "st04-bk",
+    "model": "ST04-BK",
+    "sameModel": "",
+    "price": 6.05,
+    "inStock": true,
+    "rating": 5,
+    "ratingCount": 1111,
+    "img": [
+      {
+        "src": "https://wifi.now.sh/assets/img/restoran/stands/st04-bk.jpg",
+        "title": "Черная подставка с холдером для рекламы",
+        "alt": "ST04-BK"
+      }
+    ],
+    "charact": [
+      "размеры подставки: 105 х 100 мм",
+      "размеры холдера: 185 х 100 мм",
+      "в холдер можно поместить рекламу, блюдо дня, меню или любую другую информацию",
+      "материал: органическое стекло"
+    ],
+    "description": []
+  }
+}

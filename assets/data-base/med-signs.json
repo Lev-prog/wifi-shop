@@ -1,0 +1,44 @@
+{
+  "sb1ye": {
+    "id": "sb1ye",
+    "model": "SB1YE",
+    "sameModel": "",
+    "price": 8.2,
+    "inStock": true,
+    "rating": 5,
+    "RatingCount": 1111,
+    "img": [
+      {
+        "src": "",
+        "title": "Табличка для кнопки вызова помощи инвалидам",
+        "alt": "SB1YE"
+      }
+    ],
+    "charact": [
+      "размеры подставки: 200 х 110 x 3 мм",
+      "материал: ПВХ"
+    ],
+    "description": []
+  },
+  "sb1bl": {
+    "id": "sb1bl",
+    "model": "SB1BL",
+    "sameModel": "",
+    "price": 8.2,
+    "inStock": true,
+    "rating": 5,
+    "RatingCount": 1111,
+    "img": [
+      {
+        "src": "",
+        "title": "Табличка для кнопки вызова помощи инвалидам",
+        "alt": "SB1BL"
+      }
+    ],
+    "charact": [
+      "размеры подставки: 200 х 110 x 3 мм",
+      "материал: ПВХ"
+    ],
+    "description": []
+  }
+}

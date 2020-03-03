@@ -1,0 +1,395 @@
+{
+  "belfix-m04bk": {
+    "id": "belfix-m04bk",
+    "model": "BELFIX-M04BK",
+    "sameModel": "",
+    "price": 73.3,
+    "inStock": true,
+    "rating": 5,
+    "ratingCount": 1111,
+    "img": [
+      {
+        "src": "https://wifi.now.sh/assets/img/restoran/displays/belfix-m04bk.jpg",
+        "title": "Приемник сигнала от радио-кнопок вызова",
+        "alt": "belfix-m04bk"
+      }
+    ],
+    "charact": [
+      "размеры: 200 х 130 х 30 мм",
+      "высвечивается 3 номера",
+      "принимает сигналы до 299 кнопок",
+      "тип питания: адаптер - 12В",
+      "простой в эксплуатации (выбор мелодии, громкости, длительности воспроизведения номера)",
+      "материал: пластмасса",
+      "цвет: черный"
+    ],
+    "description": []
+  },
+  "hcm7300b": {
+    "id": "hcm7300b",
+    "model": "HCM-7300 B",
+    "sameModel": "",
+    "price": 150,
+    "inStock": true,
+    "rating": 5,
+    "ratingCount": 1111,
+    "img": [
+      {
+        "src": "https://wifi.now.sh/assets/img/restoran/displays/hcm7300b.jpg",
+        "title": "Приемник сигнала от радио-кнопок вызова",
+        "alt": "hcm-7300 B"
+      }
+    ],
+    "charact": [
+      "размеры: 250 х 145 х 40 мм",
+      "высвечивается 3 номера",
+      "принимает сигналы до 299 кнопок",
+      "тип питания: адаптер - 12В",
+      "простой в эксплуатации (выбор мелодии, громкости, длительности воспроизведения номера)",
+      "материал: пластмасса"
+    ],
+    "description": []
+  },
+  "hcm1900pc": {
+    "id": "hcm1900pc",
+    "model": "HCM-1900PC",
+    "sameModel": "",
+    "price": 135,
+    "inStock": true,
+    "rating": 5,
+    "ratingCount": 1111,
+    "img": [
+      {
+        "src": "https://wifi.now.sh/assets/img/restoran/displays/hcm1900pc.jpg",
+        "title": "Приемник сигнала от радио-кнопок вызова",
+        "alt": "hcm-1900pc"
+      }
+    ],
+    "charact": [
+      "размеры: 250 х 145 х 40 мм",
+      "высвечивается 6 номеров",
+      "принимает сигналы до 299 кнопок",
+      "тип питания: адаптер - 12В",
+      "простой в эксплуатации (выбор мелодии, громкости, длительности воспроизведения номера)",
+      "материал: пластмасса"
+    ],
+    "description": []
+  },
+  "belfix-mo3wh": {
+    "id": "belfix-mo3wh",
+    "model": "BELFIX-M03WH",
+    "sameModel": "",
+    "price": 120.5,
+    "inStock": true,
+    "rating": 5,
+    "ratingCount": 1111,
+    "img": [
+      {
+        "src": "https://wifi.now.sh/assets/img/restoran/displays/belfix-mo3wh.jpg",
+        "title": "Приемник сигнала от радио-кнопок вызова",
+        "alt": "belfix-mo3WH"
+      }
+    ],
+    "charact": [
+      "размеры: 247 х 159 х 37 мм",
+      "высвечивается 3 номера",
+      "принимает сигналы до 299 кнопок",
+      "тип питания: адаптер - 12В",
+      "простой в эксплуатации (выбор мелодии, громкости, длительности воспроизведения номера)",
+      "материал: пластмасса"
+    ],
+    "description": []
+  },
+  "hcm2200wh": {
+    "id": "hcm2200wh",
+    "model": "HCM-2200 WH",
+    "sameModel": "",
+    "price": 115,
+    "inStock": true,
+    "rating": 5,
+    "ratingCount": 1111,
+    "img": [
+      {
+        "src": "https://wifi.now.sh/assets/img/restoran/displays/hcm2200wh.jpg",
+        "title": "Приемник сигнала от радио-кнопок вызова",
+        "alt": "hcm-2200 WH"
+      }
+    ],
+    "charact": [
+      "размеры: 247 х 159 х 37 мм",
+      "высвечивается 2 номера",
+      "принимает сигналы до 299 кнопок",
+      "тип питания: адаптер - 12В",
+      "простой в эксплуатации (выбор мелодии, громкости, длительности воспроизведения номера)",
+      "материал: пластмасса"
+    ],
+    "description": []
+  },
+  "hcm3300b": {
+    "id": "hcm3300b",
+    "model": "HCM-3300 B",
+    "sameModel": "",
+    "price": 145,
+    "inStock": true,
+    "rating": 5,
+    "ratingCount": 1111,
+    "img": [
+      {
+        "src": "https://wifi.now.sh/assets/img/restoran/displays/hcm3300b.jpg",
+        "title": "Приемник сигнала от радио-кнопок вызова",
+        "alt": "hcm-3300 B"
+      }
+    ],
+    "charact": [
+      "размеры: 350 х 150 х 40 мм",
+      "высвечивается 3 номера",
+      "принимает сигналы до 180 кнопок",
+      "тип питания: адаптер - 12В",
+      "простой в эксплуатации (выбор мелодии, громкости, длительности воспроизведения номера)",
+      "материал: пластмасса"
+    ],
+    "description": []
+  },
+  "belfix-re02wh": {
+    "id": "belfix-re02wh",
+    "model": "BELFIX-RE02WH",
+    "sameModel": "",
+    "price": 24.5,
+    "inStock": true,
+    "rating": 5,
+    "ratingCount": 1111,
+    "img": [
+      {
+        "src": "https://wifi.now.sh/assets/img/restoran/displays/belfix-re02wh.jpg",
+        "title": "Приемник со звуковым сигналом",
+        "alt": "BELFIX-RE02WH"
+      }
+    ],
+    "charact": [
+      "размеры: 93 х 60 х 22 мм",
+      "принимает сигналы до 32 кнопок",
+      "тип питания: от сети 110 В ― 220 В",
+      "материал: пластмасса"
+    ],
+    "description": []
+  },
+  "belfix-m05wh": {
+    "id": "belfix-m05wh",
+    "model": "BELFIX-M05WH",
+    "sameModel": "",
+    "price": 80.3,
+    "inStock": true,
+    "rating": 5,
+    "ratingCount": 1111,
+    "img": [
+      {
+        "src": "https://wifi.now.sh/assets/img/restoran/displays/belfix-m05wh.jpg",
+        "title": "Табло-приемник со звуковым сигналом",
+        "alt": "BELFIX-M05WH"
+      }
+    ],
+    "charact": [
+      "размеры: 197 х 108 х 23 мм",
+      "высвечивается 1 номер",
+      "хранит в памяти 20 вызовов",
+      "принимает сигналы до 999 кнопок",
+      "тип питания: от сети 110 В ― 220 В",
+      "материал: пластмасса"
+    ],
+    "description": []
+  },
+  "belfix-m08wh": {
+    "id": "belfix-m08wh",
+    "model": "BELFIX-M08WH",
+    "sameModel": "",
+    "price": 133.08,
+    "inStock": true,
+    "rating": 5,
+    "ratingCount": 1111,
+    "img": [
+      {
+        "src": "https://wifi.now.sh/assets/img/restoran/displays/belfix-m08wh.jpg",
+        "title": "Табло-приемник со звуковым сигналом",
+        "alt": "BELFIX-M08WH"
+      }
+    ],
+    "charact": [
+      "размеры: 247 х 159 х 37 мм",
+      "высвечивается номер стола (306) и номер зала (16)",
+      "хранит в памяти 10 вызовов",
+      "принимает сигналы до 300 кнопок",
+      "тип питания: от сети 110 В ― 220 В",
+      "материал: пластмасса"
+    ],
+    "description": []
+  },
+  "belfix-m07bk": {
+    "id": "belfix-m07bk",
+    "model": "BELFIX-M07BK",
+    "sameModel": "",
+    "price": 122.14,
+    "inStock": true,
+    "rating": 5,
+    "ratingCount": 1111,
+    "img": [
+      {
+        "src": "https://wifi.now.sh/assets/img/restoran/displays/belfix-m07bk.jpg",
+        "title": "Табло-приемник со звуковым сигналом",
+        "alt": "BELFIX-M07BK"
+      }
+    ],
+    "charact": [
+      "размеры: 400 х 157 х 39 мм",
+      "высвечивается 3 номера",
+      "хранит в памяти 20 вызовов",
+      "принимает сигналы до 999 кнопок",
+      "тип питания: от сети 110 В ― 220 В",
+      "материал: пластмасса"
+    ],
+    "description": []
+  },
+  "belfix-m06bk": {
+    "id": "belfix-m06bk",
+    "model": "BELFIX-M06BK",
+    "sameModel": "",
+    "price": 130.3,
+    "inStock": true,
+    "rating": 5,
+    "ratingCount": 1111,
+    "img": [
+      {
+        "src": "https://wifi.now.sh/assets/img/restoran/displays/belfix-m06bk.jpg",
+        "title": "Табло-приемник со звуковым сигналом",
+        "alt": "BELFIX-M06BK"
+      }
+    ],
+    "charact": [
+      "размеры: 330 х 142 х 38 мм",
+      "высвечивается 3 номера",
+      "хранит в памяти 10 вызовов",
+      "принимает сигналы до 999 кнопок",
+      "тип питания: от сети 110 В ― 220 В",
+      "материал: пластмасса"
+    ],
+    "description": []
+  },
+  "r-12": {
+    "id": "r-12",
+    "model": "R-12",
+    "sameModel": "",
+    "price": 30,
+    "inStock": true,
+    "rating": 5,
+    "ratingCount": 1111,
+    "img": [
+      {
+        "src": "https://wifi.now.sh/assets/img/restoran/displays/r-12.jpg",
+        "title": "Комплект 'Директор - Секретарь'",
+        "alt": "R-12"
+      }
+    ],
+    "charact": [
+      "дальность работы: 150 - 300 м",
+      "принимает сигналы до 32 кнопок",
+      "тип питания: от сети 110 В ― 220 В",
+      "материал: пластмасса"
+    ],
+    "description": []
+  },
+  "r-1350": {
+    "id": "r-1350",
+    "model": "R-1350",
+    "sameModel": "",
+    "price": 100,
+    "inStock": true,
+    "rating": 5,
+    "ratingCount": 1111,
+    "img": [
+      {
+        "src": "https://wifi.now.sh/assets/img/restoran/displays/r-1350.jpg",
+        "title": "Табло-приемник со звуковым сигналом",
+        "alt": "R-1350"
+      }
+    ],
+    "charact": [
+      "размеры: 300 х 162 х 43 мм",
+      "высвечивается 3 номера",
+      "хранит в памяти 15 вызовов",
+      "принимает сигналы до 180 кнопок",
+      "тип питания: от сети 220 В",
+      "материал: пластмасса"
+    ],
+    "description": []
+  },
+  "r-510": {
+    "id": "r-510",
+    "model": "R-510",
+    "sameModel": "",
+    "price": 100,
+    "inStock": true,
+    "rating": 5,
+    "ratingCount": 1111,
+    "img": [
+      {
+        "src": "https://wifi.now.sh/assets/img/restoran/displays/r-510.jpg",
+        "title": "Табло-приемник со звуковым сигналом",
+        "alt": "R-510"
+      }
+    ],
+    "charact": [
+      "размеры: 300 х 162 х 43 мм",
+      "высвечивается 1 номер",
+      "принимает сигналы до 999 кнопок",
+      "тип питания: от сети 220 В",
+      "материал: пластмасса"
+    ],
+    "description": []
+  },
+  "r-1048": {
+    "id": "r-1048",
+    "model": "R-1048",
+    "sameModel": "",
+    "price": 110,
+    "inStock": true,
+    "rating": 5,
+    "ratingCount": 1111,
+    "img": [
+      {
+        "src": "https://wifi.now.sh/assets/img/restoran/displays/r-1048.jpg",
+        "title": "Табло-приемник со звуковым сигналом",
+        "alt": "R-1048"
+      }
+    ],
+    "charact": [
+      "размеры: 330 х 136 х 20 мм",
+      "высвечивается до 48 номеров",
+      "принимает сигналы до 48 кнопок",
+      "тип питания: от сети 220 В",
+      "материал: пластмасса"
+    ],
+    "description": []
+  },
+  "doorbell": {
+    "id": "doorbell",
+    "model": "Doorbell",
+    "sameModel": "",
+    "price": 15,
+    "inStock": true,
+    "rating": 5,
+    "ratingCount": 1111,
+    "img": [
+      {
+        "src": "https://wifi.now.sh/assets/img/restoran/displays/doorbell.jpg",
+        "title": "Приемник со звуковым сигналом",
+        "alt": "Doorbell"
+      }
+    ],
+    "charact": [
+      "размеры: 70 х 70 х 15 мм",
+      "принимает сигналы до 52 кнопок",
+      "тип питания: от сети 220 В",
+      "материал: пластмасса"
+    ],
+    "description": []
+  }
+}

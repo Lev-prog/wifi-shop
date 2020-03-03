@@ -1,0 +1,489 @@
+{
+  "hcm6600n": {
+    "id": "hcm6600n",
+    "model": "HCM-6600 NEW",
+    "sameModel": "",
+    "price": 45,
+    "inStock": true,
+    "rating": 5,
+    "ratingCount": 1111,
+    "img": [
+      {
+        "src": "https://wifi.now.sh/assets/img/restoran/pagers/hcm6600n.gif",
+        "title": "Пейджер в виде наручных часов `Watch Pager`",
+        "alt": "hcm-6600 new"
+      }
+    ],
+    "charact": [
+      "размеры: 55 х 45 х 15 мм",
+      "вес нетто: 34 г",
+      "высвечивается: 1 вызов",
+      "память: 10 вызовов",
+      "тип оповещения: вибровызов, звуковой сигнал",
+      "принимает до 2298 кнопок",
+      "тип питания: батарейка AAA DC 1.5V"
+    ],
+    "description": []
+  },
+  "belfix-p02bk": {
+    "id": "belfix-p02bk",
+    "model": "BELFIX-P02BK",
+    "sameModel": "",
+    "price": 50.1,
+    "inStock": true,
+    "rating": 5,
+    "ratingCount": 1111,
+    "img": [
+      {
+        "src": "https://wifi.now.sh/assets/img/restoran/pagers/belfix-p02bk.jpg",
+        "title": "Пейджер в виде наручных часов `Watch Pager`",
+        "alt": "belfix-p02bk"
+      }
+    ],
+    "charact": [
+      "размеры: 50 х 45 х 15 мм",
+      "вес нетто: 47 г",
+      "высвечивается: 1 вызов",
+      "память: 10 вызовов",
+      "продолжительность работы батареи: 168 часов в режиме ожидания",
+      "принимает до 500 кнопок",
+      "тип питания: Li-ion 3,7B"
+    ],
+    "description": []
+  },
+  "hcm3030": {
+    "id": "hcm3030",
+    "model": "HCM-3030",
+    "sameModel": "",
+    "price": 55,
+    "inStock": true,
+    "rating": 5,
+    "ratingCount": 1111,
+    "img": [
+      {
+        "src": "https://wifi.now.sh/assets/img/restoran/pagers/hcm3030.jpg",
+        "title": "Пейджер в виде наручных часов `Watch Pager`",
+        "alt": "hcm-3030"
+      }
+    ],
+    "charact": [
+      "размеры: 44 х 51 х 15 мм",
+      "вес нетто: 47 г",
+      "высвечивается: 2 вызова",
+      "продолжительность работы батареи: 36 часов в режиме ожидания",
+      "принимает до 2298 кнопок",
+      "тип питания: Li-ion 3,7B"
+    ],
+    "description": []
+  },
+  "ec4000wh": {
+    "id": "ec4000wh",
+    "model": "EC-4000WH",
+    "sameModel": "",
+    "price": 65,
+    "inStock": true,
+    "rating": 5,
+    "ratingCount": 1111,
+    "img": [
+      {
+        "src": "https://wifi.now.sh/assets/img/restoran/pagers/ec4000wh.jpg",
+        "title": "Пейджер в виде наручных часов `Watch Pager`",
+        "alt": "EC-4000WH"
+      }
+    ],
+    "charact": [
+      "размеры: 50 х 45 х 15 мм",
+      "вес нетто: 54 г",
+      "количество сохраняемых вызовов до 99",
+      "количество зарагистрированных кнопок до 999",
+      "продолжительность работы батареи: 7 дней в режиме ожидания",
+      "тип питания: Li-ion 3,7B",
+      "цвет: белый"
+    ],
+    "description": []
+  },
+  "ec4000whs": {
+    "id": "ec4000whs",
+    "model": "EC-4000WH STRONG",
+    "sameModel": "",
+    "price": 79,
+    "inStock": true,
+    "rating": 5,
+    "ratingCount": 1111,
+    "img": [
+      {
+        "src": "https://wifi.now.sh/assets/img/restoran/pagers/ec4000whs.gif",
+        "title": "Пейджер в виде наручных часов `Watch Pager`",
+        "alt": "EC-4000WH STRONG"
+      }
+    ],
+    "charact": [
+      "размеры: 50 х 45 х 15 мм",
+      "вес нетто: 54 г",
+      "количество сохраняемых вызовов до 99",
+      "количество зарагистрированных кнопок до 999",
+      "продолжительность работы батареи: 7 дней в режиме ожидания",
+      "тип питания: Li-ion 3,7B",
+      "цвет: белый"
+    ],
+    "description": []
+  },
+  "ec3900bk": {
+    "id": "ec3900bk",
+    "model": "EC-3900BK",
+    "sameModel": "",
+    "price": 60,
+    "inStock": true,
+    "rating": 5,
+    "ratingCount": 1111,
+    "img": [
+      {
+        "src": "https://wifi.now.sh/assets/img/restoran/pagers/ec3900bk.jpg",
+        "title": "Пейджер в виде наручных часов `Watch Pager`",
+        "alt": "EC-3900BK"
+      }
+    ],
+    "charact": [
+      "количество сохраняемых вызовов до 99",
+      "количество зарагистрированных кнопок до 999",
+      "продолжительность работы батареи: 7 дней в режиме ожидания",
+      "тип питания: Li-ion 3,7B",
+      "цвет: белый / черный"
+    ],
+    "description": []
+  },
+  "hcm6600": {
+    "id": "hcm6600",
+    "model": "HCM-6600",
+    "sameModel": "",
+    "price": 45,
+    "inStock": true,
+    "rating": 5,
+    "ratingCount": 1111,
+    "img": [
+      {
+        "src": "https://wifi.now.sh/assets/img/restoran/pagers/hcm6600.jpg",
+        "title": "Пейджер в виде наручных часов `Watch Pager`",
+        "alt": "HCM-6600"
+      }
+    ],
+    "charact": [
+      "размеры: 55 х 45 х 15 мм",
+      "вес нетто: 34 г",
+      "высвечивается: 1 вызов",
+      "память: 10 вызовов",
+      "тип оповещения: вибровызов, звуковой сигнал",
+      "принимает до 2298 кнопок",
+      "тип питания: батарейка AAA DC 1.5V"
+    ],
+    "description": []
+  },
+  "belfix-p06bk": {
+    "id": "belfix-p06bk",
+    "model": "BELFIX-P06BK",
+    "sameModel": "",
+    "price": 73.3,
+    "inStock": true,
+    "rating": 5,
+    "ratingCount": 1111,
+    "img": [
+      {
+        "src": "https://wifi.now.sh/assets/img/restoran/pagers/belfix-p06bk.jpg",
+        "title": "Влагозащищенный Пейджер в виде наручных часов `Watch Pager`",
+        "alt": "BELFIX-P06BK"
+      }
+    ],
+    "charact": [
+      "размеры: 48 х 25 х 15 мм",
+      "высвечивается: 10 вызовов в режиме прокрутки",
+      "память: 10 вызовов",
+      "тип оповещения: вибровызов",
+      "принимает до 500 кнопок",
+      "тип питания: аккумулятор",
+      "время автономной работы: до 7 дней"
+    ],
+    "description": []
+  },
+  "belfix-p09bk": {
+    "id": "belfix-p09bk",
+    "model": "BELFIX-P09BK",
+    "sameModel": "",
+    "price": 52.35,
+    "inStock": true,
+    "rating": 5,
+    "ratingCount": 1111,
+    "img": [
+      {
+        "src": "https://wifi.now.sh/assets/img/restoran/pagers/belfix-p09bk.jpg",
+        "title": "Пейджер вызова с цветным экраном и возможностью работать с разными производителями",
+        "alt": "BELFIX-P09BK"
+      }
+    ],
+    "charact": [
+      "размеры: 59 х 41 х 14 мм",
+      "высвечивается: 4 вызова",
+      "память: 99 вызовов",
+      "тип оповещения: вибровызов, звуковой сигнал",
+      "принимает до 999 кнопок",
+      "тип питания: аккумулятор",
+      "время автономной работы: до 120 часов"
+    ],
+    "description": []
+  },
+  "belfix-p09wh": {
+    "id": "belfix-p09wh",
+    "model": "BELFIX-P09WH",
+    "sameModel": "",
+    "price": 52.35,
+    "inStock": true,
+    "rating": 5,
+    "ratingCount": 1111,
+    "img": [
+      {
+        "src": "https://wifi.now.sh/assets/img/restoran/pagers/belfix-p09wh.jpg",
+        "title": "Пейджер вызова с цветным экраном и возможностью работать с разными производителями",
+        "alt": "BELFIX-P09WH"
+      }
+    ],
+    "charact": [
+      "размеры: 59 х 41 х 14 мм",
+      "высвечивается: 4 вызова",
+      "память: 99 вызовов",
+      "тип оповещения: вибровызов, звуковой сигнал",
+      "принимает до 999 кнопок",
+      "тип питания: аккумулятор",
+      "время автономной работы: до 120 часов"
+    ],
+    "description": []
+  },
+  "belfix-p08bk": {
+    "id": "belfix-p08bk",
+    "model": "BELFIX-P08BK",
+    "sameModel": "",
+    "price": 87.3,
+    "inStock": true,
+    "rating": 5,
+    "ratingCount": 1111,
+    "img": [
+      {
+        "src": "https://wifi.now.sh/assets/img/restoran/pagers/belfix-p08bk.webp",
+        "title": "Смарт пейджер-часы для официантов",
+        "alt": "BELFIX-P08BK"
+      }
+    ],
+    "charact": [
+      "размеры: 58 х 40 х 12 мм",
+      "высвечивается: 4 вызова",
+      "память: 99 вызовов",
+      "тип оповещения: вибровызов, звуковой сигнал",
+      "принимает до 999 кнопок",
+      "тип питания: аккумулятор",
+      "время автономной работы: до 120 часов"
+    ],
+    "description": []
+  },
+  "belfix-p07bk": {
+    "id": "belfix-p07bk",
+    "model": "BELFIX-P07BK",
+    "sameModel": "",
+    "price": 60.72,
+    "inStock": true,
+    "rating": 5,
+    "ratingCount": 1111,
+    "img": [
+      {
+        "src": "https://wifi.now.sh/assets/img/restoran/pagers/belfix-p07bk.jpg",
+        "title": "Смарт пейджер-часы для официантов",
+        "alt": "BELFIX-P07BK"
+      }
+    ],
+    "charact": [
+      "размеры: 48 х 40 х 9 мм",
+      "высвечивается: 4 вызова",
+      "память: 99 вызовов",
+      "тип оповещения: вибровызов, звуковой сигнал",
+      "принимает до 999 кнопок",
+      "тип питания: аккумулятор",
+      "время автономной работы: до 96 часов"
+    ],
+    "description": []
+  },
+  "belfix-p07wh": {
+    "id": "belfix-p07wh",
+    "model": "BELFIX-P07WH",
+    "sameModel": "",
+    "price": 60.72,
+    "inStock": true,
+    "rating": 5,
+    "ratingCount": 1111,
+    "img": [
+      {
+        "src": "https://wifi.now.sh/assets/img/restoran/pagers/belfix-p07wh.jpg",
+        "title": "Смарт пейджер-часы для официантов",
+        "alt": "BELFIX-P07WH"
+      }
+    ],
+    "charact": [
+      "размеры: 48 х 40 х 9 мм",
+      "высвечивается: 4 вызова",
+      "память: 99 вызовов",
+      "тип оповещения: вибровызов, звуковой сигнал",
+      "принимает до 999 кнопок",
+      "тип питания: аккумулятор",
+      "время автономной работы: до 96 часов"
+    ],
+    "description": []
+  },
+  "belfix-p04bk": {
+    "id": "belfix-p04bk",
+    "model": "BELFIX-P04BK",
+    "sameModel": "",
+    "price": 39.9,
+    "inStock": true,
+    "rating": 5,
+    "ratingCount": 1111,
+    "img": [
+      {
+        "src": "https://wifi.now.sh/assets/img/restoran/pagers/belfix-p04bk.jpg",
+        "title": "Часы для официантов",
+        "alt": "BELFIX-P04BK"
+      }
+    ],
+    "charact": [
+      "размеры: 60 х 45 х 15 мм",
+      "высвечивается: 1 вызов",
+      "память: 10 вызовов",
+      "тип оповещения: вибровызов, звуковой сигнал",
+      "принимает до 999 кнопок",
+      "тип питания: AAA DC 1.5 V"
+    ],
+    "description": []
+  },
+  "belfix-p05bk": {
+    "id": "belfix-p05bk",
+    "model": "BELFIX-P05BK",
+    "sameModel": "",
+    "price": 44.5,
+    "inStock": true,
+    "rating": 5,
+    "ratingCount": 1111,
+    "img": [
+      {
+        "src": "https://wifi.now.sh/assets/img/restoran/pagers/belfix-p05bk.jpg",
+        "title": "Часы для официантов",
+        "alt": "BELFIX-P05BK"
+      }
+    ],
+    "charact": [
+      "размеры: 51 х 45 х 16 мм",
+      "тип оповещения: вибровызов, звуковой сигнал",
+      "принимает до 25 кнопок",
+      "тип питания: аккумулятор"
+    ],
+    "description": []
+  },
+  "r02w": {
+    "id": "r02w",
+    "model": "R-02-W",
+    "sameModel": "",
+    "price": 60,
+    "inStock": true,
+    "rating": 5,
+    "ratingCount": 1111,
+    "img": [
+      {
+        "src": "https://wifi.now.sh/assets/img/restoran/pagers/r02w.jpg",
+        "title": "Пейджер в виде наручных часов `Watch Pager`",
+        "alt": "R-02-W"
+      }
+    ],
+    "charact": [
+      "размеры: 60 х 40 х 15 мм",
+      "высвечивается: 4 вызова",
+      "память: 99 вызовов",
+      "тип оповещения: вибровызов, звуковой сигнал",
+      "принимает до 999 кнопок",
+      "тип питания: аккумулятор",
+      "время автономной работы: до 120 часов"
+    ],
+    "description": []
+  },
+  "r02b": {
+    "id": "r02b",
+    "model": "R-02-B",
+    "sameModel": "",
+    "price": 60,
+    "inStock": true,
+    "rating": 5,
+    "ratingCount": 1111,
+    "img": [
+      {
+        "src": "https://wifi.now.sh/assets/img/restoran/pagers/r02b.jpg",
+        "title": "Пейджер в виде наручных часов `Watch Pager`",
+        "alt": "R-02-B"
+      }
+    ],
+    "charact": [
+      "размеры: 60 х 40 х 15 мм",
+      "высвечивается: 4 вызова",
+      "память: 99 вызовов",
+      "тип оповещения: вибровызов, звуковой сигнал",
+      "принимает до 999 кнопок",
+      "тип питания: аккумулятор",
+      "время автономной работы: до 120 часов"
+    ],
+    "description": []
+  },
+  "r02cw": {
+    "id": "r02cw",
+    "model": "R-02-CW",
+    "sameModel": "",
+    "price": 65,
+    "inStock": true,
+    "rating": 5,
+    "ratingCount": 1111,
+    "img": [
+      {
+        "src": "https://wifi.now.sh/assets/img/restoran/pagers/r02cw.jpg",
+        "title": "Пейджер в виде наручных часов `Watch Pager`",
+        "alt": "R-02-CW"
+      }
+    ],
+    "charact": [
+      "размеры: 60 х 40 х 15 мм",
+      "высвечивается: 4 вызова",
+      "память: 99 вызовов",
+      "тип оповещения: вибровызов, звуковой сигнал",
+      "принимает до 999 кнопок",
+      "тип питания: аккумулятор",
+      "время автономной работы: до 120 часов"
+    ],
+    "description": []
+  },
+  "r02cb": {
+    "id": "r02cb",
+    "model": "R-02-CB",
+    "sameModel": "",
+    "price": 65,
+    "inStock": true,
+    "rating": 5,
+    "ratingCount": 1111,
+    "img": [
+      {
+        "src": "https://wifi.now.sh/assets/img/restoran/pagers/r02cb.jpg",
+        "title": "Пейджер в виде наручных часов `Watch Pager`",
+        "alt": "R-02-CB"
+      }
+    ],
+    "charact": [
+      "размеры: 60 х 40 х 15 мм",
+      "высвечивается: 4 вызова",
+      "память: 99 вызовов",
+      "тип оповещения: вибровызов, звуковой сигнал",
+      "принимает до 999 кнопок",
+      "тип питания: аккумулятор",
+      "время автономной работы: до 120 часов"
+    ],
+    "description": []
+  }
+}

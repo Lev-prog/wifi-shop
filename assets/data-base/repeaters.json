@@ -1,0 +1,95 @@
+{
+  "belfix-r01bk": {
+    "id": "belfix-r01bk",
+    "model": "BELFIX-R01BK",
+    "sameModel": "",
+    "price": 88.4,
+    "inStock": true,
+    "rating": 5,
+    "ratingCount": 1111,
+    "img": [
+      {
+        "src": "https://wifi.now.sh/assets/img/restoran/repeaters/belfix-r01bk.jpg",
+        "title": "Усилитель сигнала от кнопок вызова",
+        "alt": "belfix-r01bk"
+      }
+    ],
+    "charact": [
+      "размеры:  150 х 100 х 25 мм",
+      "мощность передачи: 100 м",
+      "тип питания: адаптер - 12В/1А",
+      "материал: пластмасса"
+    ],
+    "description": []
+  },
+  "hcm60": {
+    "id": "hcm60",
+    "model": "HCM-60",
+    "sameModel": "",
+    "price": 195,
+    "inStock": true,
+    "rating": 5,
+    "ratingCount": 1111,
+    "img": [
+      {
+        "src": "https://wifi.now.sh/assets/img/restoran/repeaters/hcm60.jpg",
+        "title": "Усилитель сигнала от кнопок вызова",
+        "alt": "hcm-60"
+      }
+    ],
+    "charact": [
+      "размеры: 170 х 110 х 40 мм",
+      "мощность передачи: 300 м",
+      "тип питания: адаптер - 12В/1А",
+      "материал: пластмасса"
+    ],
+    "description": []
+  },
+  "belfix-r02bk": {
+    "id": "belfix-r02bk",
+    "model": "BELFIX-R02BK",
+    "sameModel": "",
+    "price": 81.14,
+    "inStock": true,
+    "rating": 5,
+    "ratingCount": 1111,
+    "img": [
+      {
+        "src": "https://wifi.now.sh/assets/img/restoran/repeaters/belfix-r02bk.jpg",
+        "title": "Усилитель сигнала от кнопок вызова",
+        "alt": "BELFIX-R02BK"
+      }
+    ],
+    "charact": [
+      "размеры: 100 х 70 х 25 мм",
+      "мощность передачи: 300 - 500 м",
+      "тип питания: сеть 220 В",
+      "материал: пластмасса"
+    ],
+    "description": []
+  },
+  "belfix-r03wh": {
+    "id": "belfix-r03wh",
+    "model": "BELFIX-R03WH",
+    "sameModel": "",
+    "price": 88.41,
+    "inStock": true,
+    "rating": 5,
+    "ratingCount": 1111,
+    "img": [
+      {
+        "src": "https://wifi.now.sh/assets/img/restoran/repeaters/belfix-r03wh.jpg",
+        "title": "Усилитель сигнала от кнопок вызова",
+        "alt": "BELFIX-R03WH"
+      }
+    ],
+    "charact": [
+      "размеры: 115 х 70 х 20 мм",
+      "мощность передачи: 200 - 400 м",
+      "тип питания: сеть 220 В / аккумулятор",
+      "в автономном режиме может работать до 6 часов",
+      "материал: пластмасса"
+    ],
+    "description": []
+  }
+}

@@ -1,0 +1,29 @@
+@font-face {
+    font-family: 'Nanum Gothic';
+    src: local('NanumGothic'), url('Nanumgothic.woff2') format('woff2'), url('Nanumgothic.woff') format('woff'), url('Nanumgothic.ttf') format('truetype');
+    font-weight: 400;
+    font-style: normal;
+}
+@font-face {
+    font-family: 'Nanum Gothic';
+    src: local('NanumGothic ExtraBold'), local('NanumGothic-ExtraBold'), url('Nanumgothicextrabold.woff2') format('woff2'), url('Nanumgothicextrabold.woff') format('woff'), url('Nanumgothicextrabold.ttf') format('truetype');
+    font-weight: 800;
+    font-style: normal;
+}
+@font-face {
+    font-family: 'Nanum Gothic';
+    src: local('NanumGothic Bold'), local('NanumGothic-Bold'), url('Nanumgothicbold.woff2') format('woff2'), url('Nanumgothicbold.woff') format('woff'), url('Nanumgothicbold.ttf') format('truetype');
+    font-weight: 700;
+    font-style: normal;
+}
+
+
+@font-face {
+font-family: 'Museo Sans 500 Medium';
+src: url('MuseoSansCyrl-500.eot');
+src: url('MuseoSansCyrl-500.eot?#iefix') format('embedded-opentype'),
+url('MuseoSansCyrl-500.woff') format('woff'),
+url('MuseoSansCyrl-500.ttf') format('truetype');
+font-weight: normal;
+font-style: normal;
+}

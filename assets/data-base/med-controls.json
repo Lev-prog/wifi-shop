@@ -1,0 +1,104 @@
+{
+  "belfix-c03wh": {
+    "id": "belfix-c03wh",
+    "model": "BELFIX-C03WH",
+    "sameModel": "",
+    "price": 29.3,
+    "inStock": true,
+    "rating": 5,
+    "RatingCount": 1111,
+    "img": [
+      {
+        "src": "../../assets/img/restoran/controls/belfix-c03wh.jpg",
+        "title": "Многофункциональное устройство вызова персонала",
+        "alt": "BELFIX-C03WH"
+      }
+    ],
+    "charact": [
+      "размеры: 86 x 43 х 15 мм",
+      "количество кнопок: 3",
+      "тип питания: батарейка 23А-12В x 2шт.",
+      "мощность передачи: 500 - 1000 м",
+      "время работы от одного элемента питания: до 2 лет",
+      "материал: пластмасса",
+      "цвет: белый"
+    ],
+    "description": []
+  },
+  "belfix-c02bk": {
+    "id": "belfix-c02bk",
+    "model": "BELFIX-C02BK",
+    "sameModel": "",
+    "price": 30.2,
+    "inStock": true,
+    "rating": 5,
+    "RatingCount": 1111,
+    "img": [
+      {
+        "src": "../../assets/img/restoran/controls/belfix-c02bk.jpg",
+        "title": "Многофункциональное устройство вызова персонала",
+        "alt": "BELFIX-C02BK"
+      }
+    ],
+    "charact": [
+      "размеры: 113 x 62 х 9 мм",
+      "количество кнопок: 5",
+      "тип питания: батарейка CR2032-3V x 4шт.",
+      "мощность передачи: 150 - 200 м",
+      "время работы от одного элемента питания: до 2 лет",
+      "материал: пластмасса",
+      "цвет: черный"
+    ],
+    "description": []
+  },
+  "belfix-c07bk": {
+    "id": "belfix-c07bk",
+    "model": "BELFIX-C07BK",
+    "sameModel": "",
+    "price": 95.9,
+    "inStock": true,
+    "rating": 5,
+    "RatingCount": 1111,
+    "img": [
+      {
+        "src": "../../assets/img/restoran/controls/belfix-c07bk.jpg",
+        "title": "Многофункциональное устройство вызова персонала с сенсорной клавиатурой",
+        "alt": "BELFIX-C07BK"
+      }
+    ],
+    "charact": [
+      "размеры: 150 x 97 х 36 мм",
+      "количество кнопок: клавиатура 1 - 9999",
+      "тип питания: адаптер 9В",
+      "мощность передачи: до 1500 м",
+      "материал: пластмасса",
+      "цвет: черный"
+    ],
+    "description": []
+  },
+  "belfix-c04sl": {
+    "id": "belfix-c04sl",
+    "model": "BELFIX-C04SL",
+    "sameModel": "",
+    "price": 80.03,
+    "inStock": true,
+    "rating": 5,
+    "RatingCount": 1111,
+    "img": [
+      {
+        "src": "../../assets/img/restoran/controls/belfix-c04sl.jpg",
+        "title": "Многофункциональное устройство вызова персонала с встроеной антенной",
+        "alt": "BELFIX-C04SL"
+      }
+    ],
+    "charact": [
+      "размеры: 140 x 100 х 25 мм",
+      "количество кнопок: клавиатура 1 - 999",
+      "тип питания: адаптер 9В/1А",
+      "мощность передачи: 200 - 500 м",
+      "материал: пластмасса",
+      "цвет: серебряный"
+    ],
+    "description": []
+  }
+}

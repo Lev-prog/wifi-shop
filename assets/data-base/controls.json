@@ -1,0 +1,241 @@
+{
+  "hcm830c": {
+    "id": "hcm830c",
+    "model": "HCM-830C",
+    "sameModel": "",
+    "price": 29.3,
+    "inStock": true,
+    "rating": 5,
+    "ratingCount": 1111,
+    "img": [
+      {
+        "src": "https://wifi.now.sh/assets/img/restoran/controls/hcm830c.jpg",
+        "title": "Многофункциональное устройство вызова персонала",
+        "alt": "HCM-830C"
+      }
+    ],
+    "charact": [
+      "размеры: 86 x 43 х 15 мм",
+      "количество кнопок: 3",
+      "тип питания: батарейка 23А-12В x 2шт.",
+      "мощность передачи: 500 - 1000 м",
+      "время работы от одного элемента питания: до 2 лет",
+      "материал: пластмасса",
+      "цвет: оранжевый"
+    ],
+    "description": []
+  },
+  "belfix-c01bk": {
+    "id": "belfix-c01bk",
+    "model": "BELFIX-C01BK",
+    "sameModel": "",
+    "price": 80,
+    "inStock": true,
+    "rating": 5,
+    "ratingCount": 1111,
+    "img": [
+      {
+        "src": "https://wifi.now.sh/assets/img/restoran/controls/belfix-c01bk.jpg",
+        "title": "Многофункциональное устройство вызова персонала",
+        "alt": "BELFIX-C01BK"
+      }
+    ],
+    "charact": [
+      "размеры: 110 x 155 х 75 мм",
+      "тип питания: адаптер 12В/1А",
+      "мощность передачи: 200 - 500 м",
+      "материал: пластмасса"
+    ],
+    "description": []
+  },
+  "hcm620": {
+    "id": "hcm620",
+    "model": "HCM-620",
+    "sameModel": "",
+    "price": 160,
+    "inStock": true,
+    "rating": 3,
+    "ratingCount": 1111,
+    "img": [
+      {
+        "src": "https://wifi.now.sh/assets/img/restoran/controls/hcm620.jpg",
+        "title": "Многофункциональное устройство вызова персонала",
+        "alt": "HCM-620"
+      }
+    ],
+    "charact": [
+      "размеры: 120 x 175 х 45 мм",
+      "тип питания: адаптер 12В/1А",
+      "мощность передачи: 200 - 500 м",
+      "материал: пластмасса",
+      "приемник: HCM7300, HCM1900"
+    ],
+    "description": []
+  },
+  "hcm600": {
+    "id": "hcm600",
+    "model": "HCM-600",
+    "sameModel": "",
+    "price": 80,
+    "inStock": true,
+    "rating": 3,
+    "ratingCount": 1111,
+    "img": [
+      {
+        "src": "https://wifi.now.sh/assets/img/restoran/controls/hcm600.jpg",
+        "title": "Многофункциональное устройство вызова персонала",
+        "alt": "HCM-600"
+      }
+    ],
+    "charact": [
+      "размеры: 100 x 180 х 45 мм",
+      "тип питания: адаптер 12В/1А",
+      "мощность передачи: 100 м",
+      "материал: пластмасса",
+      "приемник: HCM3030"
+    ],
+    "description": []
+  },
+  "belfix-c03wh": {
+    "id": "belfix-c03wh",
+    "model": "BELFIX-C03WH",
+    "sameModel": "",
+    "price": 29.3,
+    "inStock": true,
+    "rating": 5,
+    "ratingCount": 2163,
+    "img": [
+      {
+        "src": "https://wifi.now.sh/assets/img/restoran/controls/c03wh.jpg",
+        "title": "Многофункциональное устройство вызова персонала",
+        "alt": "belfix-c03wh"
+      },
+      {
+        "src": "https://wifi.now.sh/assets/img/restoran/controls/c03wh-1.jpg",
+        "title": "Многофункциональное устройство вызова персонала",
+        "alt": "belfix-c03wh"
+      }
+    ],
+    "charact": [
+      "размеры: 86 x 43 х 15 мм",
+      "количество кнопок: 3",
+      "тип питания: батарейка 23А-12В x 2шт.",
+      "мощность передачи: 500 - 1000 м",
+      "время работы от одного элемента питания: до 2 лет",
+      "материал: пластмасса",
+      "цвет: белый"
+    ],
+    "description": []
+  },
+  "belfix-c02bk": {
+    "id": "belfix-c02bk",
+    "model": "BELFIX-C02BK",
+    "sameModel": "",
+    "price": 30.2,
+    "inStock": true,
+    "rating": 5,
+    "ratingCount": 2569,
+    "img": [
+      {
+        "src": "https://wifi.now.sh/assets/img/restoran/controls/belfix-c02bk.jpg",
+        "title": "Многофункциональное устройство вызова персонала",
+        "alt": "BELFIX-C02BK"
+      }
+    ],
+    "charact": [
+      "размеры: 113 x 62 х 9 мм",
+      "количество кнопок: 5",
+      "тип питания: батарейка CR2032-3V x 4шт.",
+      "мощность передачи: 150 - 200 м",
+      "время работы от одного элемента питания: до 2 лет",
+      "материал: пластмасса",
+      "цвет: черный"
+    ],
+    "description": []
+  },
+  "belfix-c07bk": {
+    "id": "belfix-c07bk",
+    "model": "BELFIX-C07BK",
+    "sameModel": "",
+    "price": 95.9,
+    "inStock": true,
+    "rating": 4.5,
+    "ratingCount": 2111,
+    "img": [
+      {
+        "src": "https://wifi.now.sh/assets/img/restoran/controls/belfix-c07bk.jpg",
+        "title": "Многофункциональное устройство вызова персонала с сенсорной клавиатурой",
+        "alt": "BELFIX-C07BK"
+      }
+    ],
+    "charact": [
+      "размеры: 150 x 97 х 36 мм",
+      "количество кнопок: клавиатура 1 - 9999",
+      "тип питания: адаптер 9В",
+      "мощность передачи: до 1500 м",
+      "материал: пластмасса",
+      "цвет: черный"
+    ],
+    "description": []
+  },
+  "belfix-c05bk": {
+    "id": "belfix-c05bk",
+    "model": "BELFIX-C05BK",
+    "sameModel": "",
+    "price": 74.2,
+    "inStock": true,
+    "rating": 4.5,
+    "ratingCount": 1689,
+    "img": [
+      {
+        "src": "https://wifi.now.sh/assets/img/restoran/controls/belfix-c05bk.jpg",
+        "title": "Многофункциональное устройство вызова персонала с внешней антенной",
+        "alt": "BELFIX-C05BK"
+      }
+    ],
+    "charact": [
+      "размеры: 136 x 92 х 27 мм",
+      "количество кнопок: клавиатура 1 - 999",
+      "тип питания: адаптер 5В/1А",
+      "мощность передачи: 50 - 150 м",
+      "материал: пластмасса",
+      "цвет: черный"
+    ],
+    "description": []
+  },
+  "belfix-c04sl": {
+    "id": "belfix-c04sl",
+    "model": "BELFIX-C04SL",
+    "sameModel": "",
+    "price": 80,
+    "inStock": true,
+    "rating": 5,
+    "ratingCount": 2897,
+    "img": [
+      {
+        "src": "https://wifi.now.sh/assets/img/restoran/controls/c04sl.jpg",
+        "title": "Многофункциональное устройство вызова персонала",
+        "alt": "belfix-c04sl"
+      },
+      {
+        "src": "https://wifi.now.sh/assets/img/restoran/controls/c04sl-1.jpg",
+        "title": "Многофункциональное устройство вызова персонала",
+        "alt": "belfix-c04sl"
+      },
+      {
+        "src": "https://wifi.now.sh/assets/img/restoran/controls/c04sl-2.jpg",
+        "title": "Многофункциональное устройство вызова персонала",
+        "alt": "belfix-c04sl"
+      }
+    ],
+    "charact": [
+      "размеры: 140 x 100 х 25 мм",
+      "количество кнопок: клавиатура 1 - 999",
+      "тип питания: адаптер 9В/1А",
+      "мощность передачи: 200 - 500 м",
+      "материал: пластмасса",
+      "цвет: серебряный"
+    ],
+    "description": []
+  }
+}

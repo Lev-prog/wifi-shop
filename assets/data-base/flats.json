@@ -1,0 +1,394 @@
+{
+  "cps16": {
+    "id": "cps16",
+    "model": "CPS-16",
+    "sameModel": "",
+    "price": 295,
+    "inStock": true,
+    "rating": 5,
+    "ratingCount": 1111,
+    "img": [
+      {
+        "src": "https://wifi.now.sh/assets/img/restoran/flats/cps16.jpg",
+        "title": "Система вызова гостей",
+        "alt": "cps-16"
+      },
+      {
+        "src": "https://wifi.now.sh/assets/img/restoran/flats/chocolate.jpg",
+        "title": "Система вызова гостей",
+        "alt": "chocolate"
+      }
+    ],
+    "charact": [
+      "размеры: 152 х 235 х 36 мм",
+      "емкость - 16 пейджеров CHOCOLATE",
+      "совмещен с зарядным устройством пейджеров",
+      "радиус действия до 500 м на прямой видимости",
+      "напряжение питания 7.5В, 4А (блок питания в комплекте)",
+      "цвет: темно-коричневый"
+    ],
+    "description": []
+  },
+  "chocolate": {
+    "id": "chocolate",
+    "model": "CHOCOLATE",
+    "sameModel": "",
+    "price": 18,
+    "inStock": true,
+    "rating": 5,
+    "ratingCount": 1111,
+    "img": [
+      {
+        "src": "https://wifi.now.sh/assets/img/restoran/flats/chocolate.jpg",
+        "title": "Система вызова гостей",
+        "alt": "chocolate"
+      }
+    ],
+    "charact": [
+      "размеры: 102 х 52 х 125 мм",
+      "материал: пластмасса",
+      "вибрация и звуковое оповещение",
+      "перезаряжаемый аккумулятор",
+      "заряжается на базе CPS-16",
+      "цвет: темно-коричневый"
+    ],
+    "description": []
+  },
+  "belfix-flat16": {
+    "id": "belfix-flat16",
+    "model": "BELFIX-FLAT16",
+    "sameModel": "",
+    "price": 281.5,
+    "inStock": true,
+    "rating": 5,
+    "ratingCount": 1111,
+    "img": [
+      {
+        "src": "https://wifi.now.sh/assets/img/restoran/flats/belfix-flat16.jpg",
+        "title": "Комплект системы вызова гостей 16 пейджеров / 1 база",
+        "alt": "BELFIX-FLAT16"
+      }
+    ],
+    "charact": [
+      "размеры: 234 х 157 х 36 мм",
+      "емкость - 16 пейджеров FLAT-P01DW",
+      "может работать максимум с 999 пейджерами",
+      "совмещен с зарядным устройством пейджеров",
+      "радиус действия до 500 м на прямой видимости, в помещении до 200 м",
+      "напряжение питания 7.5В, 4А (блок питания в комплекте)",
+      "цвет: бордовый"
+    ],
+    "description": []
+  },
+  "belfix-flat-p01dw": {
+    "id": "belfix-flat-p01dw",
+    "model": "BELFIX-FLAT-P01DW",
+    "sameModel": "",
+    "price": 13.1,
+    "inStock": true,
+    "rating": 5,
+    "ratingCount": 1111,
+    "img": [
+      {
+        "src": "https://wifi.now.sh/assets/img/restoran/flats/belfix-flat-p01dw.jpg",
+        "title": "Пейджер для системы вызова гостей",
+        "alt": "BELFIX-FLAT-P01DW"
+      }
+    ],
+    "charact": [
+      "размеры: 104 х 51 х 10 мм",
+      "материал: пластмасса",
+      "вибрация и звуковое оповещение",
+      "перезаряжаемый аккумулятор",
+      "заряжается на базе BELFIX-FLAT-TR999"
+    ],
+    "description": []
+  },
+  "belfix-flat-tr999": {
+    "id": "belfix-flat-tr999",
+    "model": "BELFIX-FLAT-TR999",
+    "sameModel": "",
+    "price": 113.2,
+    "inStock": true,
+    "rating": 5,
+    "ratingCount": 1111,
+    "img": [
+      {
+        "src": "https://wifi.now.sh/assets/img/restoran/flats/belfix-flat-tr999.webp",
+        "title": "Пейджер для системы вызова гостей",
+        "alt": "BELFIX-FLAT-TR999"
+      }
+    ],
+    "charact": [
+      "размеры: 234 х 157 х 36 мм",
+      "емкость - 16 пейджеров FLAT-P01DW",
+      "может работать максимум с 999 пейджерами",
+      "совмещен с зарядным устройством пейджеров",
+      "радиус действия до 500 м на прямой видимости, в помещении до 200 м",
+      "напряжение питания 7.5В, 4А (блок питания в комплекте)",
+      "цвет: бордовый"
+    ],
+    "description": []
+  },
+  "belfix-coins-ttr02b": {
+    "id": "belfix-coins-ttr02b",
+    "model": "BELFIX-COINS-TTR02B",
+    "sameModel": "",
+    "price": 95.97,
+    "inStock": true,
+    "rating": 5,
+    "ratingCount": 1111,
+    "img": [
+      {
+        "src": "https://wifi.now.sh/assets/img/restoran/flats/belfix-coins-ttr02b.jpg",
+        "title": "Базовый блок",
+        "alt": "BELFIX-COINS-TTR02B"
+      }
+    ],
+    "charact": [
+      "размеры: 150 х 97 х 36 мм",
+      "блок для пейджеров BELFIX-COINS-WPP02DW",
+      "может работать максимум с 9999 пейджерами",
+      "радиус действия до 1000 м",
+      "цвет: темно-коричневый"
+    ],
+    "description": []
+  },
+  "belfix-coins-wpp02dw": {
+    "id": "belfix-coins-wpp02dw",
+    "model": "BELFIX-COINS-WPP02DW",
+    "sameModel": "",
+    "price": 29.3,
+    "inStock": true,
+    "rating": 5,
+    "ratingCount": 1111,
+    "img": [
+      {
+        "src": "https://wifi.now.sh/assets/img/restoran/flats/belfix-coins-wpp02dw.jpg",
+        "title": "Пейджер для системы вызова гостей",
+        "alt": "BELFIX-COINS-WPP02DW"
+      }
+    ],
+    "charact": [
+      "размеры: 109 х 109 х 22 мм",
+      "материал: пластмасса",
+      "вибрация и звуковое оповещение",
+      "перезаряжаемый аккумулятор",
+      "заряжается на базе BELFIX-TOUCH-COINS-CHG10"
+    ],
+    "description": []
+  },
+  "belfix-touch-coins-chg10": {
+    "id": "belfix-touch-coins-chg10",
+    "model": "BELFIX-TOUCH-COINS-CHG10",
+    "sameModel": "",
+    "price": 29.3,
+    "inStock": true,
+    "rating": 5,
+    "ratingCount": 1111,
+    "img": [
+      {
+        "src": "https://wifi.now.sh/assets/img/restoran/flats/belfix-touch-coins-chg10.jpg",
+        "title": "Зарядное устройство для системы вызова гостей",
+        "alt": "BELFIX-TOUCH-COINS-CHG10"
+      }
+    ],
+    "charact": [
+      "для зарядки пейджеры друг на друга устаналиваются на зарядное устройство",
+      "одновременно может заряжать 10 пейджеров",
+      "время зарядки 2 часа",
+      "напряжение питания 7.5В, 4А (блок питания в комплекте)"
+    ],
+    "description": []
+  },
+  "belfix-coins-tr01b": {
+    "id": "belfix-coins-tr01b",
+    "model": "BELFIX-COINS-TR01B",
+    "sameModel": "",
+    "price": 267.6,
+    "inStock": true,
+    "rating": 5,
+    "ratingCount": 1111,
+    "img": [
+      {
+        "src": "https://wifi.now.sh/assets/img/restoran/flats/belfix-coins-tr01b.jpg",
+        "title": "Базовый блок",
+        "alt": "BELFIX-COINS-TR01B"
+      }
+    ],
+    "charact": [
+      "размеры: 165 х 135 х 35 мм",
+      "блок для пейджеров BELFIX-COINS-P01DW",
+      "может работать максимум с 9999 пейджерами",
+      "радиус действия до 500 м, в помщении до 250 м"
+    ],
+    "description": []
+  },
+  "belfix-coins-p01dw": {
+    "id": "belfix-coins-p01dw",
+    "model": "BELFIX-COINS-P01DW",
+    "sameModel": "",
+    "price": 58.2,
+    "inStock": true,
+    "rating": 5,
+    "ratingCount": 1111,
+    "img": [
+      {
+        "src": "https://wifi.now.sh/assets/img/restoran/flats/belfix-coins-p01dw.jpg",
+        "title": "Пейджер для системы вызова гостей",
+        "alt": "BELFIX-COINS-P01DW"
+      }
+    ],
+    "charact": [
+      "размеры: 95 х 95 мм",
+      "материал: пластмасса",
+      "вибрация и звуковое оповещение",
+      "перезаряжаемый аккумулятор",
+      "заряжается на базе BELFIX-COINS-CHG10"
+    ],
+    "description": []
+  },
+  "belfix-coins-chg10": {
+    "id": "belfix-coins-chg10",
+    "model": "BELFIX-COINS-CHG10",
+    "sameModel": "",
+    "price": 40.7,
+    "inStock": true,
+    "rating": 5,
+    "ratingCount": 1111,
+    "img": [
+      {
+        "src": "https://wifi.now.sh/assets/img/restoran/flats/belfix-coins-chg10.jpg",
+        "title": "Зарядное устройство для системы вызова гостей",
+        "alt": "BELFIX-COINS-CHG10"
+      }
+    ],
+    "charact": [
+      "для зарядки пейджеры друг на друга устаналиваются на зарядное устройство",
+      "одновременно может заряжать 10 пейджеров",
+      "время зарядки 2 часа",
+      "напряжение питания 7.5В, 4А (блок питания в комплекте)"
+    ],
+    "description": []
+  },
+  "coaster-pager-compl": {
+    "id": "coaster-pager-compl",
+    "model": "Комплект Coaster Pager",
+    "sameModel": "",
+    "price": 286,
+    "inStock": true,
+    "rating": 5,
+    "ratingCount": 1111,
+    "img": [
+      {
+        "src": "https://wifi.now.sh/assets/img/restoran/flats/coaster-pager-compl.jpg",
+        "title": "Комплект системы вызова гостей 16 пейджеров / 1 база",
+        "alt": "Комплект Coaster Pager"
+      }
+    ],
+    "charact": [
+      "размеры: 234 х 157 х 36 мм",
+      "емкость - 16 пейджеров",
+      "может работать максимум с 999 пейджерами",
+      "совмещен с зарядным устройством пейджеров",
+      "радиус действия до 300 м на прямой видимости, в помещении до 100 м",
+      "напряжение питания 12В, 5А (блок питания в комплекте)",
+      "цвет: темно-коричневый"
+    ],
+    "description": []
+  },
+  "coaster-pager-r90": {
+    "id": "coaster-pager-r90",
+    "model": "Coaster Pager R-90",
+    "sameModel": "",
+    "price": 350,
+    "inStock": true,
+    "rating": 5,
+    "ratingCount": 1111,
+    "img": [
+      {
+        "src": "https://wifi.now.sh/assets/img/restoran/flats/coaster-pager-r90.jpg",
+        "title": "Комплект системы вызова гостей 10 пейджеров / 1 база",
+        "alt": "Coaster Pager R-90"
+      }
+    ],
+    "charact": [
+      "размеры: 168 х 110 х 37 мм",
+      "размер приемника: 95 х 95 х 11 мм",
+      "емкость - 10 пейджеров",
+      "может работать максимум с 999 пейджерами",
+      "радиус действия до 300 м на прямой видимости, в помещении до 100 м",
+      "напряжение питания 9В, 1А (блок питания в комплекте)",
+      "цвет: темно-коричневый"
+    ],
+    "description": []
+  },
+  "coaster-pager-re": {
+    "id": "coaster-pager-re",
+    "model": "Coaster Pager Red",
+    "sameModel": "",
+    "price": 20,
+    "inStock": true,
+    "rating": 5,
+    "ratingCount": 1111,
+    "img": [
+      {
+        "src": "https://wifi.now.sh/assets/img/restoran/flats/coaster-pager-re.jpg",
+        "title": "Гостевой пейджер",
+        "alt": "Coaster Pager Red"
+      }
+    ],
+    "charact": [
+      "размеры: 95 х 95 мм",
+      "радиус действия до 300 м на прямой видимости, в помещении до 100 м",
+      "цвет: красный"
+    ],
+    "description": []
+  },
+  "coaster-pager-bl": {
+    "id": "coaster-pager-bl",
+    "model": "Coaster Pager Blue",
+    "sameModel": "",
+    "price": 20,
+    "inStock": true,
+    "rating": 5,
+    "ratingCount": 1111,
+    "img": [
+      {
+        "src": "https://wifi.now.sh/assets/img/restoran/flats/coaster-pager-bl.jpg",
+        "title": "Гостевой пейджер",
+        "alt": "Coaster Pager Blue"
+      }
+    ],
+    "charact": [
+      "размеры: 95 х 95 мм",
+      "радиус действия до 300 м на прямой видимости, в помещении до 100 м",
+      "цвет: синий"
+    ],
+    "description": []
+  },
+  "table-tracker-system": {
+    "id": "table-tracker-system",
+    "model": "Table Tracker System",
+    "sameModel": "",
+    "price": 0,
+    "inStock": true,
+    "rating": 5,
+    "ratingCount": 1111,
+    "img": [
+      {
+        "src": "https://wifi.now.sh/assets/img/restoran/flats/table-tracker-system.jpg",
+        "title": "Система трекинга столиков",
+        "alt": "Table Tracker System"
+      }
+    ],
+    "charact": [
+      "в комплекте: Приставка 1шт, База 1шт, Пейджер 10шт, Трекер столика 10шт ",
+      "размеры приставки: 132 х 85 х 62 мм",
+      "размеры трекера: 88 х 50 х 24 мм",
+      "размеры пейджера: 103 х 103 х 15.6 мм",
+      "радиус действия до 300 м на прямой видимости, в помещении до 100 м"
+    ],
+    "description": []
+  }
+}

@@ -1,0 +1,125 @@
+{
+    "belfix-mo3wh": {
+        "id": "belfix-mo3wh",
+        "model": "BELFIX-M03WH",
+        "sameModel": "",
+        "price": 120.4,
+        "inStock": true,
+        "rating": 5,
+        "RatingCount": 1111,
+        "img": [
+            {
+                "src": "../../assets/img/restoran/displays/belfix-mo3wh.jpg",
+                "title": "Приемник сигнала от радио-кнопок вызова",
+                "alt": "belfix-mo3WH"
+            }
+        ],
+        "charact": [
+            "размеры: 247 х 159 х 37 мм",
+            "высвечивается 3 номера",
+            "принимает сигналы до 299 кнопок",
+            "тип питания: адаптер - 12В",
+            "простой в эксплуатации (выбор мелодии, громкости, длительности воспроизведения номера)",
+            "материал: пластмасса"
+        ],
+        "description": []
+    },
+    "belfix-m05wh": {
+        "id": "belfix-m05wh",
+        "model": "BELFIX-M05WH",
+        "sameModel": "",
+        "price": 80.3,
+        "inStock": true,
+        "rating": 5,
+        "RatingCount": 1111,
+        "img": [
+            {
+                "src": "../../assets/img/restoran/displays/belfix-m05wh.jpg",
+                "title": "Табло-приемник со звуковым сигналом",
+                "alt": "BELFIX-M05WH"
+            }
+        ],
+        "charact": [
+            "размеры: 197 х 108 х 23 мм",
+            "высвечивается 1 номер",
+            "хранит в памяти 20 вызовов",
+            "принимает сигналы до 999 кнопок",
+            "тип питания: от сети 110 В ? 220 В",
+            "материал: пластмасса"
+        ],
+        "description": []
+    },
+    "belfix-m08wh": {
+        "id": "belfix-m08wh",
+        "model": "BELFIX-M08WH",
+        "sameModel": "",
+        "price": 133.07,
+        "inStock": true,
+        "rating": 5,
+        "RatingCount": 1111,
+        "img": [
+            {
+                "src": "../../assets/img/restoran/displays/belfix-m08wh.jpg",
+                "title": "Табло-приемник со звуковым сигналом",
+                "alt": "BELFIX-M08WH"
+            }
+        ],
+        "charact": [
+            "размеры: 247 х 159 х 37 мм",
+            "высвечивается номер стола (306) и номер зала (16)",
+            "хранит в памяти 10 вызовов",
+            "принимает сигналы до 300 кнопок",
+            "тип питания: от сети 110 В ? 220 В",
+            "материал: пластмасса"
+        ],
+        "description": []
+    },
+    "belfix-m06bk": {
+        "id": "belfix-m06bk",
+        "model": "BELFIX-M06BK",
+        "sameModel": "",
+        "price": 130.3,
+        "inStock": true,
+        "rating": 5,
+        "RatingCount": 1111,
+        "img": [
+            {
+                "src": "../../assets/img/restoran/displays/belfix-m06bk.jpg",
+                "title": "Табло-приемник со звуковым сигналом",
+                "alt": "BELFIX-M06BK"
+            }
+        ],
+        "charact": [
+            "размеры: 330 х 142 х 38 мм",
+            "высвечивается 3 номера",
+            "хранит в памяти 10 вызовов",
+            "принимает сигналы до 999 кнопок",
+            "тип питания: от сети 110 В ? 220 В",
+            "материал: пластмасса"
+        ],
+        "description": []
+    },
+    "belfix-re02wh": {
+        "id": "belfix-re02wh",
+        "model": "BELFIX-RE02WH",
+        "sameModel": "",
+        "price": 24.07,
+        "inStock": true,
+        "rating": 5,
+        "RatingCount": 1111,
+        "img": [
+            {
+                "src": "../../assets/img/restoran/displays/belfix-re02wh.jpg",
+                "title": "Приемник со звуковым сигналом",
+                "alt": "BELFIX-RE02WH"
+            }
+        ],
+        "charact": [
+            "размеры: 93 х 60 х 22 мм",
+            "принимает сигналы до 32 кнопок",
+            "тип питания: от сети 110 В ? 220 В",
+            "материал: пластмасса"
+        ],
+        "description": []
+    }
+}

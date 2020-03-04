@@ -548,7 +548,7 @@
       "тип элемента питания: DC 12V/23A",
       "мощность передачи: 150 – 200 м",
       "время работы от одного элемента питания: от 12 до 18 месяцев",
-      "цвет: вино"
+      "цвет: вишневый"
     ],
     "description": []
   },
@@ -562,25 +562,27 @@
     "ratingCount": 2012,
 	"img": [
       {
-        "src": "https://wifi.now.sh/assets/img/restoran/buttons/serebristaia-knopka-vizova-personala-b10sl-250.jpg",
-        "fullSize":"https://wifi.now.sh/assets/img/restoran/buttons/serebristaia-knopka-vizova-personala-b10sl.jpg",
-        "title": "Серебристая кнопка вызова официанта",
-        "alt": "фото Серебристой кнопки вызова персонала"
+        "src": "https://wifi.now.sh/assets/img/restoran/buttons/serebristaia-vodonepronicaemaia-knopka-vizova-personala-b10sl-250.jpg",
+        "fullSize":"https://wifi.now.sh/assets/img/restoran/buttons/serebristaia-vodonepronicaemaia-knopka-vizova-personala-b10sl.jpg",
+        "title": "Водонепроницаемая беспроводная кнопка вызова официанта BELFIX B10SL",
+        "alt": "фото Водонепроницаемой беспроводной кнопки вызова официанта BELFIX B10SL"
       },
 	  {
         "src": "https://wifi.now.sh/assets/img/restoran/buttons/ploskaia-knopka-vizova-personala-b10sl-1-250.jpg",
         "fullSize":"https://wifi.now.sh/assets/img/restoran/buttons/ploskaia-knopka-vizova-personala-b10sl-1.jpg",
-        "title": "Плоская кнопка вызова официанта belfix-b10sl",
-        "alt": "фото Плоской кнопки вызова официанта belfix-b10sl"
+        "title": "Влагозащищенная Кнопка вызова официанта серебристого цвета belfix-b10sl",
+        "alt": "фото Влагозащищенной Кнопки вызова официанта серебристого цвета belfix-b10sl"
       },  
       {
-        "src": "https://wifi.now.sh/assets/img/restoran/buttons/legkoe-nazhatie-knoki-vizova-personala-b10sl-2-250.jpg",
-        "fullSize":"https://wifi.now.sh/assets/img/restoran/buttons/legkoe-nazhatie-knoki-vizova-personala-b10sl-2.jpg",
-        "title": "Кнопка вызова песронала belfix-b10sl",
-        "alt": "фото Кнопки вызова персонала belfix-b10sl"
+        "src": "https://wifi.now.sh/assets/img/restoran/buttons/vlagozashishennaya-knoki-vizova-personala-b10sl-2-250.jpg",
+        "fullSize":"https://wifi.now.sh/assets/img/restoran/buttons/vlagozashishennaya-knoki-vizova-personala-b10sl-2.jpg",
+        "title": "Кнопка вызова песронала belfix-b10sl - Влагозащищенная",
+        "alt": "фото Кнопки вызова персонала belfix-b10sl - Влагозащищенная"
       }
     ],
     "charact": [
+      "Сте­пень вла­гос­той­кос­ти со­от­ветс­тву­ет стан­дарту IPX7",
+      "Работает в любых погодных условиях",
       "размеры: 65 х 65 х 16,5 мм",
       "материал: пластмасса",
       "тип элемента питания: DC 12V/23A",

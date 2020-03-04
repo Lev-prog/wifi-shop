@@ -524,23 +524,25 @@
       {
         "src": "https://wifi.now.sh/assets/img/restoran/buttons/knopka-vizova-personala-s-leghim-nazhatiem-vishnevogo-cveta-belfix-b10wn-250.jpg",
         "fullSize":"https://wifi.now.sh/assets/img/restoran/buttons/knopka-vizova-personala-s-leghim-nazhatiem-vishnevogo-cveta-belfix-b10wn.jpg",
-        "title": "Вишневая кнопка вызова персонала с легким нажатием belfix-b10wn",
-        "alt": "фото Вишневой кнопки вызова персонала с легким нажатием belfix-b10wn"
+        "title": "Водонепроницаемая беспроводная кнопка вызова официанта",
+        "alt": "фото Водонепроницаемой беспроводной кнопки вызова официанта"
       },
 	  {
-        "src": "https://wifi.now.sh/assets/img/restoran/buttons/knopka-vizova-oficianta-krasnogo-cveta-b10wn-1-250.jpg",
-        "fullSize":"https://wifi.now.sh/assets/img/restoran/buttons/knopka-vizova-oficianta-krasnogo-cveta-b10wn-1.jpg",
-        "title": "Кнопка вызова официанта красного цвета belfix-b10wn",
-        "alt": "фото Кнопки вызова официанта красного цвета belfix-b10wn"
+        "src": "https://wifi.now.sh/assets/img/restoran/buttons/vodonepronicaemaia-knopka-vizova-oficianta-krasnogo-cveta-b10wn-1-250.jpg",
+        "fullSize":"https://wifi.now.sh/assets/img/restoran/buttons/vodonepronicaemaia-knopka-vizova-oficianta-krasnogo-cveta-b10wn-1.jpg",
+        "title": "Водонепроницаемая Кнопка вызова официанта красного цвета belfix-b10wn",
+        "alt": "фото Водонепроницаемой Кнопки вызова официанта красного цвета belfix-b10wn"
       },  
       {
         "src": "https://wifi.now.sh/assets/img/restoran/buttons/besprovodnaia-knopka-vizova-personala-kupit-b10wn-2-250.jpg",
         "fullSize":"https://wifi.now.sh/assets/img/restoran/buttons/besprovodnaia-knopka-vizova-personala-kupit-b10wn-2.jpg",
-        "title": "Безпроводная кнопка вызова официанта belfix-b10wn",
-        "alt": "фото безпроводной кнопки вызова официанта belfix-b10wn"
+        "title": "Беспроводная Водонепроницаемая кнопка вызова официанта belfix-b10wn",
+        "alt": "фото беспроводной Водонепроницаемой кнопки вызова официанта belfix-b10wn"
       }
     ],
     "charact": [
+      "Сте­пень вла­гос­той­кос­ти со­от­ветс­тву­ет стан­дарту IPX7",
+      "Работает в любых погодных условиях",
       "размеры: 65 х 65 х 16,5 мм",
       "материал: пластмасса",
       "тип элемента питания: DC 12V/23A",

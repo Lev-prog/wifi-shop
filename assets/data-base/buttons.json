@@ -700,16 +700,16 @@
     "id": "belfix-b03ch",
     "model": "BELFIX-B03CH",
     "sameModel": "HCM -100, iBells-305",
-    "price": 10.0,
+    "price": 9.0,
     "inStock": true,
-    "rating": 4,
+    "rating": 3.5,
     "ratingCount": 798,
     "img": [
       {
-        "src": "https://wifi.now.sh/assets/img/restoran/buttons/ploskaia-knopka-vizova-personala-belfix-b03ch-250.jpg",
-        "fullSize":"https://wifi.now.sh/assets/img/restoran/buttons/ploskaia-knopka-vizova-personala-belfix-b03ch.jpg",
-        "title": "Кнопка вызова официантов belfix-b03ch",
-        "alt": "фото Кнопки вызова официантов belfix-b03ch"
+        "src": "https://wifi.now.sh/assets/img/restoran/buttons/ploskaia-knopka-vizova-oficianta-belfix-b03ch-250.jpg",
+        "fullSize":"https://wifi.now.sh/assets/img/restoran/buttons/ploskaia-knopka-vizova-oficianta-belfix-b03ch.jpg",
+        "title": "Круглая плоская Кнопка вызова официантов belfix-b03ch",
+        "alt": "фото Круглой плоской Кнопки вызова официантов belfix-b03ch"
       }
     ],
     "charact": [
@@ -726,7 +726,7 @@
     "id": "belfix-b07wh",
     "model": "BELFIX-B07WH",
     "sameModel": "R-105",
-    "price": 4.0,
+    "price": 3.0,
     "inStock": true,
     "rating": 4,
     "ratingCount": 3112,
@@ -734,14 +734,14 @@
       {
         "src": "https://wifi.now.sh/assets/img/restoran/buttons/malenkaia-belaia-knopka-s-sinei-podsvetkoi-pri-nagatii-b07wh-250.jpg",
         "fullSize":"https://wifi.now.sh/assets/img/restoran/buttons/malenkaia-belaia-knopka-s-sinei-podsvetkoi-pri-nagatii-b07wh.jpg",
-        "title": "Белая кнопка вызова официанта с синей подсветкой belfix-b07wh",
-        "alt": "фото белой кнопки вызова официанта с синей подсветкой belfix-b07wh"
+        "title": "кнопка звонок вызова официанта с синей подсветкой belfix-b07wh",
+        "alt": "фото кнопки звонка вызова официанта с синей подсветкой belfix-b07wh"
       },
 	  {
-        "src": "https://wifi.now.sh/assets/img/restoran/buttons/knopka-vizova-personala-b07wh-1-250.jpg",
-        "fullSize":"https://wifi.now.sh/assets/img/restoran/buttons/knopka-vizova-personala-b07wh-1.jpg",
-        "title": "Кнопка вызова персонала belfix-b07wh",
-        "alt": "фото Кнопка вызова персонала belfix-b07wh"
+        "src": "https://wifi.now.sh/assets/img/restoran/buttons/zvonok-vizova-personala-b07wh-1-250.jpg",
+        "fullSize":"https://wifi.now.sh/assets/img/restoran/buttons/zvonok-vizova-personala-b07wh-1.jpg",
+        "title": "Звонок для вызова персонала belfix-b07wh",
+        "alt": "фото Звонка для вызова персонала belfix-b07wh"
       }
     ],
     "charact": [
